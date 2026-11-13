@@ -1,9 +1,10 @@
-// Cole aqui as credenciais PÚBLICAS de configuração do seu projeto Firebase.
-// A chave API do Firebase Web não é senha; a proteção vem das regras do banco.
+
 window.LOGISTICS_FIREBASE_CONFIG = {
-  apiKey: "COLE_SUA_API_KEY",
-  authDomain: "COLE_SEU_PROJETO.firebaseapp.com",
-  databaseURL: "https://COLE_SEU_PROJETO-default-rtdb.firebaseio.com",
-  projectId: "COLE_SEU_PROJETO",
-  appId: "COLE_SEU_APP_ID"
+  apiKey: "AIzaSyDbi2dvF8yypSaiHr_HCtePfXbXqfQcjh4",
+  authDomain: "logistics-challenge-senai.firebaseapp.com",
+  databaseURL: "https://logistics-challenge-senai-default-rtdb.firebaseio.com",
+  projectId: "logistics-challenge-senai",
+  storageBucket: "logistics-challenge-senai.firebasestorage.app",
+  messagingSenderId: "967752912773",
+  appId: "1:967752912773:web:5be8cdf1a8e12b54e93eec"
 };
